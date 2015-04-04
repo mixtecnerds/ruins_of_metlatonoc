@@ -218,7 +218,8 @@ the fascinating history of indigenous civilizations.
 
 ------
 
-A review of reading Mixtec
+## A review of reading Mixtec
+
 In Mixtec every vowel has one or two tones.
 Tones are “the melody” that we úse to say words.
 Tones are very important in Mixtec. In fact, some
@@ -239,8 +240,8 @@ pronoúnced with different tones.
 
 ------
 
-Not all Mixtec langúages are written in the
-same way. In the múnicipality of Tiata’nú, also
+Not all Mixtec languages are written in the
+same way. In the municipality of Tiata’nú, also
 called Metlatonoc, in Gúerrero, Mixtec is written
 differently. They don’t mark the tone on most
 vowels. They also úse symbols that we don’t úse.
@@ -256,8 +257,7 @@ Ka’vi na.
 
 ------
 
-Ndaki’in
-na ndivi.
+Ndaki’in na ndivi.
 
 Tiaa ra.
 
@@ -266,8 +266,8 @@ Tiaa ra.
 ^Tiaa ra.
 
 *Tiaa ra.
-*Ndaki’in na
-ndivi.
+
+*Ndaki’in na ndivi.
 
 17
 
@@ -277,13 +277,14 @@ ndivi.
 Ndakava ra.
 
 *Ndakava ra.
-As yoú saw in the previoús examples,
-Mixtecs in Tiata’nú úse two symbols that we don’t
-úse. The circúmflex, or hat (^) is written before a
+
+As you saw in the previous examples,
+Mixtecs in Tiata’nu use two symbols that we don’t
+use. The circumflex, or hat (^) is written before a
 word to show that something is happening. The
 asterisk, or star (*) is written before a word to
 show that something is finished.
-The apostrophe ( ’ ) indicates a brief paúse
+The apostrophe ( ’ ) indicates a brief pause
 in a word. Read these examples:
 
 ve’e
@@ -292,15 +293,15 @@ ko’ó
 
 sa’má
 
-Yoú might notice that this soúnds a lot like
-the paúse in the English word, “úh-oh.” In Mixtec
+You might notice that this sounds a lot like
+the pause in the English word, “uh-oh.” In Mixtec
 we always write this with an apostrophe ( ’ ) , not
 with a hyphen (-) like we do in English.
 18
 
 ------
 
-In Mixtec, the letter x soúnds like the sh in
+In Mixtec, the letter x sounds like the sh in
 English. Read these words:
 
 xitá
@@ -309,10 +310,10 @@ xiyo
 
 xa’á
 
-The letters ku is pronoúnced like the qu in
-the English word “qúeen.” The letters ti and ndi
-are soúnds we don’t have in English. Read the
-words below to hear how we pronoúnce these
+The letters ku is pronounced like the qu in
+the English word “queen.” The letters ti and ndi
+are sounds we don’t have in English. Read the
+words below to hear how we pronounce these
 letters.
 
 itia
@@ -332,10 +333,10 @@ ndiaka
 
 Now we will review how we write the tones
 that indicate the negative form. When we write
-the negative form, we úse the úmlaút ( ¨ ) over the
+the negative form, we use the umlaut ( ¨ ) over the
 first vowel of the word.
 When we want to say that something is
-good or not good, we júst change the tone of the
+good or not good, we just change the tone of the
 word:
 va̱ ’a ‘good’ and va’a ‘not good’. Look at
 these other examples:
@@ -408,12 +409,12 @@ doesn’t like
 
 ------
 
-Un breve resúmen
-En mixteco cada vocal tiene úno o dos
+## Un breve resúmen
+
+En mixteco cada vocal tiene uno o dos
 tonos. Los tonos son “la melodía” qúe se úsa para
-decir las palabras.
-En mixteco los tonos son múy importantes,
-ya qúe algúnas palabras se diferencian de otras
+decir las palabras.  En mixteco los tonos son muy importantes,
+ya que algúnas palabras se diferencian de otras
 solo por el tono. Por ejemplo:
 
 yuku ‘planta’
@@ -423,19 +424,19 @@ yukú ‘monte’
 yúku ‘yugo’
 
 Estas tres palabras en mixteco se escriben
-úsando las mismas letras: y-ú-k-ú. Sin embargo, se
-pronúncian con tonos distintos.
+usando las mismas letras: y-ú-k-ú. Sin embargo, se
+pronuncian con tonos distintos.
 
 21
 
 ------
 
-No todas las lengúas mixtecas se escriben
-igúal. En el púeblo de Tiata’nú, tambien llamado
-Metlatonoc, en Gúerrero, se escriben diferente el
-mixteco. Ellos no ponen signos en múchas vocales.
-Usan algúnos signos qúe nosotros no úsamos. Lee
-las sigúientes oraciones.
+No todas las lenguas mixtecas se escriben
+igual. En el pueblo de Tiata’nu, tambien llamado
+Metlatonoc, en Guerrero, se escriben diferente el
+mixteco. Ellos no ponen signos en muchas vocales.
+Usan algunos signos que nosotros no usamos. Lee
+las siguientes oraciones.
 
 Ka’vi na.
 
@@ -447,8 +448,7 @@ Ka’vi na.
 
 ------
 
-Ndaki’in
-na ndivi.
+Ndaki’in na ndivi.
 
 Tiaa ra.
 
@@ -457,8 +457,8 @@ Tiaa ra.
 ^Tiaa ra.
 
 *Tiaa ra.
-*Ndaki’in na
-ndivi.
+
+*Ndaki’in na ndivi.
 
 23
 
@@ -469,23 +469,24 @@ Ndakava ra.
 ^Ndakava ra.
 
 *Ndakava ra.
+
 Como ha observado con los ejemplos, los
-mixtecos de Tiata’nú úsan dos signos qúe nosotros
+mixtecos de Tiata’nú usan dos signos qúe nosotros
 no úsamos para diferenciar entre acciones qúe no
 han empezado, qúe estan en proceso, o qúe ya se
 han terminado.
 
-El acento circúnflejo, o copete (^), se
-escribe al principio de úna palabra para mostrar
-qúe algo esta en proceso. El asterisco, o estrellita
-(*), se escribe al principio de úna palabra para
-indicar úna accion ya completa.
+El acento circunflejo, o copete (^), se
+escribe al principio de una palabra para mostrar
+que algo esta en proceso. El asterisco, o estrellita
+(*), se escribe al principio de una palabra para
+indicar una accion ya completa.
 
 24
 
 ------
 
-Hay palabras en las qúe se únen dos
+Hay palabras en las que se unen dos
 vocales diferentes. Observa estos ejemplos:
 
 itia
@@ -500,9 +501,9 @@ ndiuxí
 
 ndiaka
 
-El saltillo ( ’ ) es el signo qúe indica ún
-breve corte de voz en la pronúnciacion de las
-palabras. Lee las sigúientes palabras qúe se
+El saltillo ( ’ ) es el signo que indica un
+breve corte de voz en la pronunciacion de las
+palabras. Lee las siguientes palabras que se
 escriben con saltillo.
 
 ve’e
@@ -514,7 +515,7 @@ sa’má
 
 ------
 
-En mixteco, la letra x se pronúncia como la
+En mixteco, la letra x se pronuncia como la
 combinacion sh de ingles. Lee estas palabras.
 
 xitá
@@ -524,11 +525,11 @@ xiyo
 xa’á
 
 Ahora vamos a repasar como se escriben
-los tonos qúe indican la forma negativa. Cúando
-escribimos la forma negativa, úsamos dieresis ( ¨ )
+los tonos que indican la forma negativa. Cuando
+escribimos la forma negativa, usamos dieresis ( ¨ )
 sobre la primera vocal de la palabra.
-Cúando qúeremos decir en mixteco qúe
-algo esta bien o qúe no esta bien, nada mas
+Cuando queremos decir en mixteco que
+algo esta bien o que no esta bien, nada mas
 cambiamos los tonos de las palabras:
 va’a ‘esta bien’ y va’a ‘no esta bien’.
 Observa otros ejemplos:
@@ -583,6 +584,5 @@ no le gusta
 
 26
 
-------
 
 
