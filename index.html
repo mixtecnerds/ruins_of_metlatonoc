@@ -16,33 +16,33 @@
 
 <script>
 
-{
-  "title": "Ve'e yata ña iyoo ñuu ña nani mitla ña ndikaa chi Oaxaca",
-  "authors": [
-    "Santiago De Jesús Pinzón"
-  ],
-  "language": {
-    "names" : { 
-      "en": "Metlatonoc Mixtec",
-      "es": "Mixteco de Metlatonoc",
-      "vmm": "Tu̠'un sávǐ ñuu Tiata'nu"
+var getJSON = function(url, successHandler, errorHandler) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('get', url, true);
+  xhr.responseType = 'json';  
 
-    },
-    "codes" : { 
-      "iso-639-3": "mxv",
-      "glottocode": "metl1238"
+  xhr.onreadystatechange = function() {
+    var status;
+    var data;
+    // http://xhr.spec.whatwg.org/#dom-xmlhttprequest-readystate
+    if (xhr.readyState == 4) { // `DONE`
+      status = xhr.status;
+      if (status == 200) {
+        successHandler && successHandler(xhr.response);
+      } else {
+        errorHandler && errorHandler(status);
+      }
     }
-  },
-  "translations  ": [ ],
-  "recordedAt" : {
-    "place":  "", 
-    "coordinates": [17.05, -98.35],
-    "date": ""
-  },
-  "description" : "An account of the Mixtec ruins in Mitlatongo, Guerrero, Mexico. Tone is unmarked. Contains a brief summary of ‘How to Read Mixtec’ in English and Spanish. Note that while the text is about Mitlatongo, the language of the text is that of Metlatónoc.",
-  "edition": "",
-  "lastModified": "2015-04-04"
-}
+  };
+
+  xhr.send();
+};
+
+var text = getJSON('tutu_xaha_ruina.json', function(data){
+  var pre = document.createElement('pre');
+  pre.textContent = JSON.stringify(data, null, 2)
+  document.body.appendChild(pre);
+})
 
 </script>
 </body>
